@@ -18,6 +18,7 @@ Room + ViewModel + LiveData + RecyclerView (MVVM)
 * ViewModel
 * LiveData
 * Recyclerview
+* Room
 
 
 
