@@ -2,6 +2,8 @@
 
 Room + ViewModel + LiveData + RecyclerView (MVVM)
 
+[![CircleCI](https://circleci.com/gh/anelemhlanga/Room/tree/master.svg?style=shield)](https://circleci.com/gh/anelemhlanga/Room/tree/master)
+
 ## Icon
 <img src="art/icon.png" width="15%" />
 
